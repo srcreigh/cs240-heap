@@ -2,6 +2,9 @@
 **/.*.swp
 heap
 
+# Debug files
+*.d
+
 # Object files
 *.o
 *.ko
