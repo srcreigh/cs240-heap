@@ -2,7 +2,8 @@
 cs240-heap
 ----------
 
-Quick implementation of a heap using an array.
+An implementation of a heap in C. Contains an example program for testing that
+inserts and deletes randomly from the heap.
 
 usage
 =====
